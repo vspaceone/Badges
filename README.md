@@ -5,4 +5,5 @@ Some simple PCB's with simple circuts.
 All info is in the [NameOfBadge] Folder!
 
 ## Software
-[Fritzing] (https://fritzing.org/) is needed.
+Fritzing is needed.
+* http://fritzing.org/download/
