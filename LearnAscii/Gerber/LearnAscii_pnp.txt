@@ -1,0 +1,42 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=LearnAscii
+*Date=14:42:39
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;36.1664;-77.4568;0;Bottom;Via1
+2;;THT;36.1244;-46.98;0;Bottom;S7
+3;;;43.6555;-44.4002;0;Bottom;TXT1
+4;;THT;20.8844;-46.98;0;Bottom;S4
+5;;;68.0692;-49.1802;0;Bottom;TXT4
+6;;;43.6555;-49.7599;0;Bottom;TXT2
+7;;;41.428;-74.4274;0;Bottom;TXT5
+8;;;46.8661;-71.5164;0;Bottom;TXT6
+9;;THT;10.7244;-46.98;0;Bottom;S2
+10;;THT;64.0644;-46.98;0;Bottom;RS
+11;4.8V;;40.0102;-51.123;0;Bottom;VCC1
+12;;THT;15.8044;-46.98;0;Bottom;S3
+13;;THT;41.2044;-46.98;0;Bottom;S8
+14;;THT;66.6044;-67.3;0;Bottom;PWR
+15;220;0603 [SMD];22.5744;-74.92;0;Top;R1
+16;;;10.009;-69.8374;0;Bottom;IMG1
+17;10k;THT;69.1444;-31.74;0;Bottom;R2
+18;;THT;25.9644;-46.98;0;Bottom;S5
+19;;THT;53.9044;-46.98;0;Bottom;R1
+20;;;68.1212;-44.1629;0;Bottom;TXT3
+21;1µF;100 mil [THT, electrolytic];75.4944;-57.14;0;Bottom;C1
+22;;;43.2195;-68.1063;0;Bottom;TXT7
+23;;0603 [SMD];15.517;-76.4287;0;Top;LED1
+24;;THT;5.64444;-46.98;0;Bottom;S1
+25;;THT;31.0444;-46.98;0;Bottom;S6
+26;;[THT];74.9344;-46.6902;0;Bottom;SEND
+27;;;40.1884;-18.8241;0;Bottom;LCD1

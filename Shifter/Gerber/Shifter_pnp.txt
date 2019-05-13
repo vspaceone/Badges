@@ -1,0 +1,35 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Shifter
+*Date=14:48:03
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;3 mm [THT];55.6967;-58.1116;0;Bottom;LED1
+2;220;THT;69.1444;-59.68;0;Bottom;R2
+3;;[THT];25.2543;-74.6302;0;Bottom;SERIAL
+4;;;40.0075;-40.052;0;Bottom;IMG1
+5;;THT;64.0644;-67.3;0;Bottom;S1
+6;;[THT];40.4943;-74.6302;0;Bottom;LATCH
+7;;DIP16 [THT];9.45444;-60.95;0;Bottom;U1
+8;;;8.18435;-8.8801;0;Bottom;Via4
+9;;;36.0978;-59.653;0;Bottom;Via1
+10;;;9.30336;-56.924;0;Bottom;Via7
+11;;led_bargaph_10;39.9344;-7.61;0;Bottom;D1
+12;;[THT];55.7343;-74.6302;0;Bottom;CLOCK
+13;4.8V;;47.6301;-48.583;0;Bottom;VCC1
+14;;;10.6882;-41.8739;0;Bottom;Via5
+15;;;7.09045;-46.6169;0;Bottom;Via9
+16;;;51.3327;-57.0968;0;Bottom;Via2
+17;;;11.9119;-46.6169;0;Bottom;Via8
+18;;;23.4195;-67.3215;0;Bottom;Via3
+19;;;9.4916;-59.7225;0;Bottom;Via6
+20;220;THT;76.7644;-13.96;-90;Bottom;R1

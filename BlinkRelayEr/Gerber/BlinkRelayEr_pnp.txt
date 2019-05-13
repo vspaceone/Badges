@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=BlinkRelayEr
-*Date=11:27:04
+*Date=14:34:08
 *CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
 *
 *
@@ -13,22 +13,22 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;;13.6289;-72.1286;0;Bottom;TXT1
-2;;;59.8796;-5.96372;0;Bottom;TXT1
-3;;;13.6239;-75.0934;0;Bottom;TXT2
-4;;;10.8123;-5.56672;-180;Bottom;TXT2
-5;;;41.2044;-74.92;0;Bottom;Hole1
-6;;3 mm [THT];24.6626;-58.0279;0;Bottom;LED1
-7;;;5.6388;-11.42;0;Bottom;Copper Fill1
-8;;;60.2701;-3.38406;0;Bottom;TXT2
-9;220;THT;69.1444;-19.04;0;Bottom;R1
-10;;;60.553;-8.57352;0;Bottom;TXT2
-11;;;39.9796;-40.0204;0;Bottom;Copper Fill2
-12;;THT;56.4444;-6.34;0;Bottom;Relay Switch
-13;;;40.1083;-40.0446;0;Bottom;IMG1
-14;;[THT];40.4944;-6.05019;0;Bottom;S1
-15;;THT;8.18444;-7.61;0;Bottom;Relay Coil
-16;;;10.8073;-8.53152;-180;Bottom;TXT1
-17;1µF;100 mil [THT, electrolytic];4.37444;-16.5;0;Bottom;C1
-18;220;THT;20.8844;-3.8;0;Bottom;R2
-19;9V;;10.7244;-73.65;0;Bottom;9V
+1;;;60.2702;-3.384;0;Bottom;TXT2
+2;;;39.9796;-40.0204;0;Bottom;Copper Fill2
+3;1µF;100 mil [THT, electrolytic];4.37444;-16.5;0;Bottom;C1
+4;;[THT];40.4943;-6.05019;0;Bottom;S1
+5;;THT;8.18444;-7.61;0;Bottom;Relay Coil
+6;9V;;10.7244;-73.65;0;Bottom;9V
+7;220;THT;20.8844;-3.8;0;Bottom;R2
+8;;THT;56.4444;-6.34;0;Bottom;Relay Switch
+9;;;13.624;-75.0934;0;Bottom;TXT2
+10;;;40.1083;-40.0446;0;Bottom;IMG1
+11;;;60.553;-8.57351;0;Bottom;TXT2
+12;;;5.6388;-11.42;0;Bottom;Copper Fill1
+13;;;10.8122;-5.56671;180;Bottom;TXT2
+14;;;10.8073;-8.53144;180;Bottom;TXT1
+15;;3 mm [THT];24.6627;-58.0279;0;Bottom;LED1
+16;220;THT;69.1444;-19.04;0;Bottom;R1
+17;;;13.629;-72.1286;0;Bottom;TXT1
+18;;;41.2043;-74.92;0;Bottom;Hole1
+19;;;59.8796;-5.96379;0;Bottom;TXT1
